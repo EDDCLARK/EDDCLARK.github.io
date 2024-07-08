@@ -38,14 +38,20 @@ My name is **Yanbo Zhao (赵彦博)**, a Master student supervised by <a href="h
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Ecological Indicators</div><div><img src='images/CA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div class="badge">Ecological Indicators</div><div><img src='images/CA/android-chrome-512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020](https://www.sciencedirect.com/science/article/pii/S1470160X23008798?via%3Dihub)
 
 **Yanbo Zhao**, Jie Wang, Geli Zhang, Luo Liu, Jilin Yang, Xiaocui Wu, Chandrashekhar Biradar, Jinwei Dong, Xiangming Xiao
+</div>
+</div>
 
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Scientific Data</div><div><img src='images/GI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A 10-m annual grazing intensity dataset in 2015–2021 for the largest temperate meadow steppe in China](https://www.nature.com/articles/s41597-024-03017-5)
 
-
+Chuchen Chang, Jie Wang, **Yanbo Zhao**, Tianyu Cai, Jilin Yang, Geli Zhang, Xiaocui Wu, Munkhdulam Otgonbayar, Xiangming Xiao, Xiaoping Xin, Yingjun Zhang
 </div>
 </div>
 
