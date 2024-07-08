@@ -22,11 +22,12 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Yanbo Zhao (赵彦博)"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : "images/profile.jpg"
   bio              : "China Agricultural University"
   location         : "Beijing China"
   employer         :
-  pubmed           : 
+  pubmed           :
+  CV               ：""images/CV.pdf""
   googlescholar    : "https://scholar.google.com/citations?user=hf0T-nYAAAAJ&hl=zh-CN"
   email            : "ybzhao@cau.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yanbo-Zhao-7"

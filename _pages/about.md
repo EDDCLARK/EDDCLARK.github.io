@@ -17,14 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Yanbo Zhao (赵彦博), a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. My research interest includes the interactions between terrestrial ecosystems and environment under ongoing climate change and human activities, the responses and feedbacks of terrestrial ecosystems carbon-water cycles to climate change. Although I mainly use the Remote sensing-based approach, I'm also into multiple methods including Earth System Models which I'd like to use in my future study. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 Amazing! Very happy to get a band 7.5(6.5) in my IELTS test!
+- *2024.03*: &nbsp;🎉🎉 Happy to win the <a href="https://cgst.cau.edu.cn/art/2024/3/14/art_49908_1014647.html">Jia Shenxiu - Greenyn Ecological Scholarship</a>!
+- *2024.02*: &nbsp;🎉🎉 My coauthored paper <a href="https://www.nature.com/articles/s41597-024-03017-5">A 10-m annual grazing intensity dataset in 2015–2021 for the largest temperate meadow steppe in China</a> has been accepted by Scientific Data. Congratulations, Chuchen!
+- *2023.12*: &nbsp;🎉🎉 Very happy to get a band 6.5(6) in my first IELTS test.
+- *2023.10*: &nbsp;🎉🎉 My paper <a href="https://www.sciencedirect.com/science/article/pii/S0301479723022077?via%3Dihub">Land use significantly improved grassland degradation and desertification states in China over the last two decades</a> has been accepted by Journal of Environmental Management!
+- *2023.09*: &nbsp;🎉🎉 <a href="https://cgst.cau.edu.cn/art/2023/9/28/art_49904_981949.html">Very excited to win the National Scholarship as the only first-year master student!</a>. 
+- *2023.09*: &nbsp;🎉🎉 Happy to obtain the <a href="https://cgst.cau.edu.cn/art/2023/9/26/art_49908_981739.html">First-class Student Scholarship</a> in CAU. 
+- *2023.08*: &nbsp;🎉🎉 My coauthored paper <a href="https://www.sciencedirect.com/science/article/pii/S1574954123002893?via%3Dihub">Sustainable restoration in sandy lands is challenged by the divergent responses of grassland functional types to disturbance</a> has been accepted by Ecological Informatics. Congratulations, Pengpeng!
+- *2023.07*: &nbsp;🎉🎉 The first paper in my career <a href="https://www.sciencedirect.com/science/article/pii/S1470160X23008798?via%3Dihub">Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020</a> has been accepted by Ecological Indicators!
+- *2021.11*: &nbsp;🎉🎉 Very excited to win the <a href="https://contest.geoscene.cn/detail/114">First Prize in ESRI Cup GIS Software Development Competition</a> with my teammates! Well done! 
+- *2021.09*: &nbsp;🎉🎉 Happy to win the only recommended graduate student in my department! 
+
 
 # 📝 Publications 
 
@@ -43,16 +52,16 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Jia Shenxiu - Greenyn Ecological Scholarship <strong>(~1% in the college)</strong>.
+- *2023* Chinese National Scholarship <strong>(~1% in the college)</strong>. 
+- *2023* First-class Student Scholarship in recognition of academic excellence <strong>(ranked top 1 in the department)</strong>. 
+- *2022* Admission Scholarship <strong>(only for recommended students)</strong>.
+- *2021* First Prize in ESRI Cup GIS Software Development Competition <strong>(top 3 of ~1,000 participants)</strong>.
+- *2021* Second-class Student Scholarship <strong>(~10% in the college, rank top 1 in the department)</strong>.
+- *2019* First-class Student Scholarship <strong>(~1% in the college)</strong>.
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2025.06 (expected)*, China Agricultual University, Department of Grassland Resource and Ecology 
+- *2018.09 - 2022.06*, South China Agricultural University, College of Natural Resources and Environment, Geographic Information Science (GIS).  
