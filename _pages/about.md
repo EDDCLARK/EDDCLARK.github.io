@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yanbo Zhao (赵彦博), a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. My research interest includes the interactions between terrestrial ecosystems and environment under ongoing climate change and human activities, the responses and feedbacks of terrestrial ecosystems carbon-water cycles to climate change. Although I mainly use the Remote sensing-based approach, I'm also into multiple methods including Earth System Models which I'd like to use in my future study. 
+My name is **Yanbo Zhao (赵彦博)**, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. My research interest includes the interactions between terrestrial ecosystems and environment under ongoing climate change and human activities, the responses and feedbacks of terrestrial ecosystems carbon-water cycles to climate change. Although I mainly use the Remote sensing-based approach, I'm also into multiple methods including Earth System Models which I'd like to use in my future study. 
 
 
 
@@ -27,7 +27,7 @@ My name is Yanbo Zhao (赵彦博), a Master student supervised by <a href="https
 - *2024.02*: &nbsp;🎉🎉 My coauthored paper <a href="https://www.nature.com/articles/s41597-024-03017-5">A 10-m annual grazing intensity dataset in 2015–2021 for the largest temperate meadow steppe in China</a> has been accepted by Scientific Data. Congratulations, Chuchen!
 - *2023.12*: &nbsp;🎉🎉 Very happy to get a band 6.5(6) in my first IELTS test.
 - *2023.10*: &nbsp;🎉🎉 My paper <a href="https://www.sciencedirect.com/science/article/pii/S0301479723022077?via%3Dihub">Land use significantly improved grassland degradation and desertification states in China over the last two decades</a> has been accepted by Journal of Environmental Management!
-- *2023.09*: &nbsp;🎉🎉 <a href="https://cgst.cau.edu.cn/art/2023/9/28/art_49904_981949.html">Very excited to win the National Scholarship as the only first-year master student!</a>. 
+- *2023.09*: &nbsp;🎉🎉 <a href="https://cgst.cau.edu.cn/art/2023/9/28/art_49904_981949.html">Very excited to win the National Scholarship as the only first-year master student!</a>
 - *2023.09*: &nbsp;🎉🎉 Happy to obtain the <a href="https://cgst.cau.edu.cn/art/2023/9/26/art_49908_981739.html">First-class Student Scholarship</a> in CAU. 
 - *2023.08*: &nbsp;🎉🎉 My coauthored paper <a href="https://www.sciencedirect.com/science/article/pii/S1574954123002893?via%3Dihub">Sustainable restoration in sandy lands is challenged by the divergent responses of grassland functional types to disturbance</a> has been accepted by Ecological Informatics. Congratulations, Pengpeng!
 - *2023.07*: &nbsp;🎉🎉 The first paper in my career <a href="https://www.sciencedirect.com/science/article/pii/S1470160X23008798?via%3Dihub">Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020</a> has been accepted by Ecological Indicators!
@@ -38,9 +38,8 @@ My name is Yanbo Zhao (赵彦博), a Master student supervised by <a href="https
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><img src='images/CA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div class="badge">Ecological Indicators</div><div><img src='images/CA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Yanbo Zhao**, Jie Wang, Geli Zhang, Luo Liu, Jilin Yang, Xiaocui Wu, Chandrashekhar Biradar, Jinwei Dong, Xiangming Xiao
