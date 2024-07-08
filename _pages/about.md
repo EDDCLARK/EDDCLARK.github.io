@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Yanbo Zhao (赵彦博)**, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. My research interest includes the interactions between terrestrial ecosystems and environment under ongoing climate change and human activities, the responses and feedbacks of terrestrial ecosystems carbon-water cycles to climate change. Although I mainly use the Remote sensing-based approach, I'm also into multiple methods including Earth System Models which I'd like to use in my future study. 
+My name is <a href="images/CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. My research interest includes the interactions between terrestrial ecosystems and environment under ongoing climate change and human activities, the responses and feedbacks of terrestrial ecosystems carbon-water cycles to climate change. Although I mainly use the Remote sensing-based approach, I'm also into multiple methods including Earth System Models which I'd like to use in my future study. 
 
 
 
@@ -38,15 +38,6 @@ My name is **Yanbo Zhao (赵彦博)**, a Master student supervised by <a href="h
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div class="badge">Ecological Indicators</div><div><img src='images/CA/android-chrome-512x512.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020](https://www.sciencedirect.com/science/article/pii/S1470160X23008798?via%3Dihub)
-
-**Yanbo Zhao**, Jie Wang, Geli Zhang, Luo Liu, Jilin Yang, Xiaocui Wu, Chandrashekhar Biradar, Jinwei Dong, Xiangming Xiao
-</div>
-</div>
-
-<div class='paper-box'>
 <div class='paper-box-image'><div class="badge">Scientific Data</div><div><img src='images/GI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A 10-m annual grazing intensity dataset in 2015–2021 for the largest temperate meadow steppe in China](https://www.nature.com/articles/s41597-024-03017-5)
@@ -55,7 +46,33 @@ Chuchen Chang, Jie Wang, **Yanbo Zhao**, Tianyu Cai, Jilin Yang, Geli Zhang, Xia
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Journal of Environmental Management</div><div><img src='images/CHN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Land use significantly improved grassland degradation and desertification states in China over the last two decades](https://www.sciencedirect.com/science/article/pii/S0301479723022077?via%3Dihub)
+
+**Yanbo Zhao**, Chuchen Chang, Xiaoli Zhou, Geli Zhang, Jie Wang
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Ecological Indicators</div><div><img src='images/CA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020](https://www.sciencedirect.com/science/article/pii/S1470160X23008798?via%3Dihub)
+
+**Yanbo Zhao**, Jie Wang, Geli Zhang, Luo Liu, Jilin Yang, Xiaocui Wu, Chandrashekhar Biradar, Jinwei Dong, Xiangming Xiao
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Ecological Informatics</div><div><img src='images/sandy2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Sustainable restoration in sandy lands is challenged by the divergent responses of grassland functional types to disturbance](https://www.sciencedirect.com/science/article/pii/S1574954123002893?via%3Dihub)
+
+Pengpeng Dou, Jie Wang, Zhengzhou Miao, **Yanbo Zhao**, Qian Gao, Jing Huang, Lili Hou, Kaili Wang, Chuchen Chang, Tianyu Cai, Xu Wang, Kun Wang
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024* Jia Shenxiu - Greenyn Ecological Scholarship <strong>(~1% in the college)</strong>.
