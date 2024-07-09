@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <a href="images/CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. My research interest includes the interactions between terrestrial ecosystems and environment under ongoing climate change and human activities, the responses and feedbacks of terrestrial ecosystems carbon-water cycles to climate change. Although I mainly use the Remote sensing-based approach, I'm also into multiple methods including Earth System Models which I'd like to use in my future study. 
+My name is <a href="images/CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. 
+
+**How can we simulate the vegetation dynamics and climate change more precisely?** This is the question that I will focus on throughout my academic career. Before we can provide an answer or a solution, we need to understand the mechanisms of **how terrestrial ecosystem vegetation interacts with the environment in different aspects (such as the carbon-water-energy cycle) under ongoing climate change and human activities**. This kind of work can play a key role in reducing the uncertainty in Ecosystem Models, after which we are likely to contribute to a better estimation of the future world. I am really into it!
+
+Truly, for now, I mainly use remote sensing-based approaches, and I currently separate the vegetation-environment interactions into two parts: the impacts of climate change on vegetation dynamics, and the effects of land use change and vegetation dynamics on the environment. I study them individually. However, I'd like to employ multi-source data and cutting-edge technology, including Earth System Models, to integrate both of these impacts in my future study. 
 
 
 
