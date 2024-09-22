@@ -21,7 +21,9 @@ My name is <a href="images/Yanbo_CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Maste
 
 **How can we simulate the vegetation dynamics and climate change more precisely?** This is the question that I will focus on throughout my academic career. Before we can provide an answer or a solution, we need to understand the mechanisms of **how terrestrial ecosystem vegetation interacts with the environment in different aspects (such as the carbon-water-energy cycle) under ongoing climate change and human activities**. This kind of work can play a key role in reducing the uncertainty in Ecosystem Models, after which we are likely to contribute to a better estimation of the future world. I am really into it!
 
-Truly, for now, I mainly use remote sensing-based approaches, and I currently separate the vegetation-environment interactions into two parts: the impacts of climate change on vegetation dynamics, and the effects of land use change and vegetation dynamics on the environment. I study them individually. However, I'd like to employ multi-source data and cutting-edge technology, including Earth System Models, to integrate both of these impacts in my future study. 
+Truly, for now, I mainly use remote sensing-based approaches, and I currently separate the vegetation-environment interactions into two parts: the impacts of climate change on vegetation dynamics, and the effects of land use change and vegetation dynamics on the environment. I study them individually. However, I'd like to employ multi-source data and cutting-edge technology, including Earth System Models and Artificial Intelligent (AI), to integrate both of these impacts in my future study. 
+
+By the way, I am also interested in mapping land cover and land use change as well as other application of remote sensing and GIS. 
 
 
 
