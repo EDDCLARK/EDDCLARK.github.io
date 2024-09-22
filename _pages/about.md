@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <a href="images/CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. 
+My name is <a href="images/Yanbo_CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. 
 
 **How can we simulate the vegetation dynamics and climate change more precisely?** This is the question that I will focus on throughout my academic career. Before we can provide an answer or a solution, we need to understand the mechanisms of **how terrestrial ecosystem vegetation interacts with the environment in different aspects (such as the carbon-water-energy cycle) under ongoing climate change and human activities**. This kind of work can play a key role in reducing the uncertainty in Ecosystem Models, after which we are likely to contribute to a better estimation of the future world. I am really into it!
 
@@ -26,17 +26,17 @@ Truly, for now, I mainly use remote sensing-based approaches, and I currently se
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 Amazing! Very happy to get a band 7.5(6.5) in my IELTS test!
-- *2024.03*: &nbsp;🎉🎉 Happy to win the <a href="https://cgst.cau.edu.cn/art/2024/3/14/art_49908_1014647.html">Jia Shenxiu - Greenyn Ecological Scholarship</a>!
-- *2024.02*: &nbsp;🎉🎉 My coauthored paper <a href="https://www.nature.com/articles/s41597-024-03017-5">A 10-m annual grazing intensity dataset in 2015–2021 for the largest temperate meadow steppe in China</a> has been accepted by Scientific Data. Congratulations, Chuchen!
-- *2023.12*: &nbsp;🎉🎉 Very happy to get a band 6.5(6) in my first IELTS test.
-- *2023.10*: &nbsp;🎉🎉 My paper <a href="https://www.sciencedirect.com/science/article/pii/S0301479723022077?via%3Dihub">Land use significantly improved grassland degradation and desertification states in China over the last two decades</a> has been accepted by Journal of Environmental Management!
-- *2023.09*: &nbsp;🎉🎉 <a href="https://cgst.cau.edu.cn/art/2023/9/28/art_49904_981949.html">Very excited to win the National Scholarship as the only first-year master student!</a>
-- *2023.09*: &nbsp;🎉🎉 Happy to obtain the <a href="https://cgst.cau.edu.cn/art/2023/9/26/art_49908_981739.html">First-class Student Scholarship</a> in CAU. 
-- *2023.08*: &nbsp;🎉🎉 My coauthored paper <a href="https://www.sciencedirect.com/science/article/pii/S1574954123002893?via%3Dihub">Sustainable restoration in sandy lands is challenged by the divergent responses of grassland functional types to disturbance</a> has been accepted by Ecological Informatics. Congratulations, Pengpeng!
-- *2023.07*: &nbsp;🎉🎉 The first paper in my career <a href="https://www.sciencedirect.com/science/article/pii/S1470160X23008798?via%3Dihub">Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020</a> has been accepted by Ecological Indicators!
-- *2021.11*: &nbsp;🎉🎉 Very excited to win the <a href="https://contest.geoscene.cn/detail/114">First Prize in ESRI Cup GIS Software Development Competition</a> with my teammates! Well done! 
-- *2021.09*: &nbsp;🎉🎉 Happy to win the only recommended graduate student in my department! 
+- *2024.04*: &nbsp; Amazing! Very happy to get a band 7.5(6.5) in my IELTS test!
+- *2024.03*: &nbsp; Happy to win the <a href="https://cgst.cau.edu.cn/art/2024/3/14/art_49908_1014647.html">Jia Shenxiu - Greenyn Ecological Scholarship</a>!
+- *2024.02*: &nbsp; My coauthored paper <a href="https://www.nature.com/articles/s41597-024-03017-5">A 10-m annual grazing intensity dataset in 2015–2021 for the largest temperate meadow steppe in China</a> has been accepted by Scientific Data. Congratulations, Chuchen!
+- *2023.12*: &nbsp; Very happy to get a band 6.5(6) in my first IELTS test.
+- *2023.10*: &nbsp; My paper <a href="https://www.sciencedirect.com/science/article/pii/S0301479723022077?via%3Dihub">Land use significantly improved grassland degradation and desertification states in China over the last two decades</a> has been accepted by Journal of Environmental Management!
+- *2023.09*: &nbsp; <a href="https://cgst.cau.edu.cn/art/2023/9/28/art_49904_981949.html">Very excited to win the National Scholarship as the only first-year master student!</a>
+- *2023.09*: &nbsp; Happy to obtain the <a href="https://cgst.cau.edu.cn/art/2023/9/26/art_49908_981739.html">First-class Student Scholarship</a> in CAU. 
+- *2023.08*: &nbsp; My coauthored paper <a href="https://www.sciencedirect.com/science/article/pii/S1574954123002893?via%3Dihub">Sustainable restoration in sandy lands is challenged by the divergent responses of grassland functional types to disturbance</a> has been accepted by Ecological Informatics. Congratulations, Pengpeng!
+- *2023.07*: &nbsp; The first paper in my career <a href="https://www.sciencedirect.com/science/article/pii/S1470160X23008798?via%3Dihub">Divergent trends in grassland degradation and desertification under land use and climate change in Central Asia from 2000 to 2020</a> has been accepted by Ecological Indicators!
+- *2021.11*: &nbsp; Very excited to win the <a href="https://contest.geoscene.cn/detail/114">First Prize in ESRI Cup GIS Software Development Competition</a> with my teammates! Well done! 
+- *2021.09*: &nbsp; Happy to win the only recommended graduate student in my department! 
 
 
 # 📝 Publications 
