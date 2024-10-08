@@ -28,6 +28,7 @@ By the way, I am also interested in mapping land cover and land use change as we
 
 
 # 🔥 News
+- *2024.10*: &nbsp; Happy to win the National Scholarship and First-class Student scholarship for the second time! 
 - *2024.04*: &nbsp; Amazing! Very happy to get a band 7.5(6.5) in my IELTS test!
 - *2024.03*: &nbsp; Happy to win the <a href="https://cgst.cau.edu.cn/art/2024/3/14/art_49908_1014647.html">Jia Shenxiu - Greenyn Ecological Scholarship</a>!
 - *2024.02*: &nbsp; My coauthored paper <a href="https://www.nature.com/articles/s41597-024-03017-5">A 10-m annual grazing intensity dataset in 2015–2021 for the largest temperate meadow steppe in China</a> has been accepted by Scientific Data. Congratulations, Chuchen!
@@ -81,6 +82,8 @@ Pengpeng Dou, Jie Wang, Zhengzhou Miao, **Yanbo Zhao**, Qian Gao, Jing Huang, Li
 
 
 # 🎖 Honors and Awards
+- *2024* Chinese National Scholarship <strong>(ranked top 1 in the college)</strong>. 
+- *2024* First-class Student Scholarship in recognition of academic excellence. 
 - *2024* Jia Shenxiu - Greenyn Ecological Scholarship <strong>(~1% in the college)</strong>.
 - *2023* Chinese National Scholarship <strong>(~1% in the college)</strong>. 
 - *2023* First-class Student Scholarship in recognition of academic excellence <strong>(ranked top 1 in the department)</strong>. 
