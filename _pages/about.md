@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <a href="images/Yanbo_CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. 
+My name is <a href="images/CV.pdf">**Yanbo Zhao (赵彦博)**</a>, a Master student supervised by <a href="https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html">Prof. Jie Wang</a> at China Agricultural University. 
 
 **How can we simulate the vegetation dynamics and climate change more precisely?** This is the question that I will focus on throughout my academic career. Before we can provide an answer or a solution, we need to understand the mechanisms of **how terrestrial ecosystem vegetation interacts with the environment in different aspects (such as the carbon-water-energy cycle) under ongoing climate change and human activities**. This kind of work can play a key role in reducing the uncertainty in Ecosystem Models, after which we are likely to contribute to a better estimation of the future world. I am really into it!
 
@@ -28,6 +28,8 @@ By the way, I am also interested in mapping land cover and land use change as we
 
 
 # 🔥 News
+- *2024.12*: &nbsp; My coauthored paper <a href="https://linkinghub.elsevier.com/retrieve/pii/S0378377424005547">Physiological changes induced by green fodder expansion into grasslands and croplands enhance water-use efficiency in the Northeastern Tibetan Plateau</a> has been accepted by Agricultural Water Management. Congratulations, Xu!
+- *2024.11*: &nbsp; My coauthored paper <a href="https://www.nature.com/articles/s41597-024-04120-3">Within-season estimates of 10 m aboveground biomass based on Landsat, Sentinel-2 and PlanetScope data</a> has been accepted by Scientific Data. Congratulations, Tianyu,Chuchen!
 - *2024.10*: &nbsp; Happy to win the National Scholarship and First-class Student scholarship for the second time! 
 - *2024.04*: &nbsp; Amazing! Very happy to get a band 7.5(6.5) in my IELTS test!
 - *2024.03*: &nbsp; Happy to win the <a href="https://cgst.cau.edu.cn/art/2024/3/14/art_49908_1014647.html">Jia Shenxiu - Greenyn Ecological Scholarship</a>!
@@ -43,6 +45,24 @@ By the way, I am also interested in mapping land cover and land use change as we
 
 
 # 📝 Publications 
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Agricultural Water Management</div><div><img src='images/water.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Physiological changes induced by green fodder expansion into grasslands and croplands enhance water-use efficiency in the Northeastern Tibetan Plateau](https://linkinghub.elsevier.com/retrieve/pii/S0378377424005547)
+
+Xu Wang, Jilin Yang, Jie Wang, Tong Yang, Chuchen Chang, **Yanbo Zhao**, Xiaocui Wu, Geli Zhang, Xiangming Xiao
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div class="badge">Scientific Data</div><div><img src='images/grass.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Within-season estimates of 10 m aboveground biomass based on Landsat, Sentinel-2 and PlanetScope data](https://www.nature.com/articles/s41597-024-04120-3)
+
+Tianyu Cai, Chuchen Chang, **Yanbo Zhao**, Xu Wang, Jilin Yang, Pengpeng Dou, Munkhdulam Otgonbayar, Geli Zhang, Yelu Zeng, Jie Wang
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div class="badge">Scientific Data</div><div><img src='images/GI.png' alt="sym" width="100%"></div></div>

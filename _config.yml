@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanbo Zhao (赵彦博)"
-description              : "Master student at CAU,looking for 25Fall PhD position."
+description              : "Upcoming PhD student at The University of Hong Kong."
 repository               : "EDDCLARK/EDDCLARK.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing China"
   employer         :
   pubmed           :
-  CV               : "images/Yanbo_CV.pdf"
+  CV               : "images/CV.pdf"
   googlescholar    : "https://scholar.google.com/citations?user=hf0T-nYAAAAJ&hl=zh-CN"
   email            : "ybzhao@cau.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yanbo-Zhao-7"
